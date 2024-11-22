@@ -1,0 +1,24 @@
+.main-content {
+  display: flex;
+  margin: 0 auto;
+  min-height: 850px;
+  box-sizing: border-box;
+}
+  
+.main-layout {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+  height: 850px;
+}
+
+.content {
+  background-color: #f1f1f8;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  height: 850px;
+}
